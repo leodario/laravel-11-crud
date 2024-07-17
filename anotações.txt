@@ -1,0 +1,11 @@
+php artisan serve
+
+Criando migrations usando artisan
+// lista todas os comandos
+php artisan
+
+// explicar um determinado comando em expecífico. Ex:
+php artisan help migrate
+
+// criando os campos
+php artisan migrate
